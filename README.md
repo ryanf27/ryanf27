@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">Full Stack Web Developer Enthusiast</h3>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **ryanfebry0227@gmail.com**
 
